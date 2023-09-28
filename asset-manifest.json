@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/kicks-chronicles-ui/static/css/main.073c9b0a.css",
-    "main.js": "/kicks-chronicles-ui/static/js/main.80e60ba0.js",
+    "main.js": "/kicks-chronicles-ui/static/js/main.f45c43fd.js",
     "static/js/787.3f749921.chunk.js": "/kicks-chronicles-ui/static/js/787.3f749921.chunk.js",
     "static/media/logo.svg": "/kicks-chronicles-ui/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/kicks-chronicles-ui/index.html",
     "main.073c9b0a.css.map": "/kicks-chronicles-ui/static/css/main.073c9b0a.css.map",
-    "main.80e60ba0.js.map": "/kicks-chronicles-ui/static/js/main.80e60ba0.js.map",
+    "main.f45c43fd.js.map": "/kicks-chronicles-ui/static/js/main.f45c43fd.js.map",
     "787.3f749921.chunk.js.map": "/kicks-chronicles-ui/static/js/787.3f749921.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.80e60ba0.js"
+    "static/js/main.f45c43fd.js"
   ]
 }
